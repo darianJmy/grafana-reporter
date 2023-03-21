@@ -108,3 +108,6 @@ cp SIMKAI.ttf /usr/share/fonts/dejavu/
 ### 3、重新加载
 texhash
 ```
+
+
+## 同级文件下已存在linux二进制文件，可直接使用
